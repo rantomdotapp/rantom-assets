@@ -217,6 +217,10 @@
     "displayName": "Sushi",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/sushi.png"
   },
+  "sushiv3": {
+    "displayName": "Sushi v3",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/sushi.png"
+  },
   "tornadocash": {
     "displayName": "Tornadocash",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/tornadocash.png"
