@@ -1,0 +1,240 @@
+{
+  "aavev1": {
+    "displayName": "Aave v1",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/aave.png"
+  },
+  "aavev2": {
+    "displayName": "Aave v2",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/aave.jpeg"
+  },
+  "aavev3": {
+    "displayName": "Aave v3",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/aave-v3.jpeg"
+  },
+  "abracadabra": {
+    "displayName": "Abracadabra",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/abracadabra.png"
+  },
+  "agility": {
+    "displayName": "Agility",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/agility.png"
+  },
+  "apecoin": {
+    "displayName": "ApeCoin",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/apecoin.png"
+  },
+  "arbitrum": { "displayName": "Arbitrum", "logoURI": "/images/blockchains/arbitrum.png" },
+  "arrakis": {
+    "displayName": "Arrakis",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/arrakis.png"
+  },
+  "aurafinance": {
+    "displayName": "Aura",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/aurafinance.png"
+  },
+  "balancer": {
+    "displayName": "Balancer",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/balancer.png"
+  },
+  "bancor": {
+    "displayName": "Bancor",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/bancor.png"
+  },
+  "beanstalk": {
+    "displayName": "Beanstalk",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/beanstalk.png"
+  },
+  "beefy": {
+    "displayName": "Beefy",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/beefy.png"
+  },
+  "binance-staked-eth": {
+    "displayName": "Binance Staked Eth",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/binance-staked-eth.png"
+  },
+  "blur": {
+    "displayName": "Blur",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/blur.jpg"
+  },
+  "carbon": {
+    "displayName": "Carbon",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/carbon.png"
+  },
+  "chainlink": {
+    "displayName": "Chainlink",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/chainlink.png"
+  },
+  "compound": {
+    "displayName": "Compound",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/compound.png"
+  },
+  "compoundv3": {
+    "displayName": "Compound III",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/compound.png"
+  },
+  "conic": {
+    "displayName": "Conic",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/conic.svg"
+  },
+  "convex": {
+    "displayName": "Convex",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/convex.jpg"
+  },
+  "cowswap": {
+    "displayName": "CoW Protocol",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/cowswap.jpeg"
+  },
+  "curve": {
+    "displayName": "Curve",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/curve.png"
+  },
+  "dodo": {
+    "displayName": "Dodoex",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/dodoex.png"
+  },
+  "ens": {
+    "displayName": "ENS",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/ens.png"
+  },
+  "ethereum": { "displayName": "Ethereum", "logoURI": "/images/blockchains/ethereum.png" },
+  "euler": {
+    "displayName": "Euler",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/euler.png"
+  },
+  "exactly": {
+    "displayName": "Exactly",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/exactly.png"
+  },
+  "fraxeth": {
+    "displayName": "Fraxeth",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/fraxswap.png"
+  },
+  "fraxlend": {
+    "displayName": "Fraxlend",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/fraxlend.svg"
+  },
+  "fraxswap": {
+    "displayName": "Fraxswap",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/fraxswap.png"
+  },
+  "gearbox": {
+    "displayName": "Gearbox",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/gearbox.png"
+  },
+  "hop": {
+    "displayName": "Hop Protocol",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/hop.png"
+  },
+  "ironbank": {
+    "displayName": "Ironbank",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/ironbank.svg"
+  },
+  "kyberswap-aggregator": {
+    "displayName": "KyberAggregator",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/kyberswap.png"
+  },
+  "kyberswap-classic": {
+    "displayName": "KyberClassic",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/kyberswap.png"
+  },
+  "lido": {
+    "displayName": "Lido",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/lido.png"
+  },
+  "liquity": {
+    "displayName": "Liquity",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/liquity.png"
+  },
+  "looksrare": {
+    "displayName": "LooksRare",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/looksrare.png"
+  },
+  "loopring": {
+    "displayName": "Loopring",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/loopring.png"
+  },
+  "lybra": {
+    "displayName": "Lybra",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/lybra.png"
+  },
+  "maker": {
+    "displayName": "Maker",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/maker.png"
+  },
+  "multichain": {
+    "displayName": "Multichain",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/multichain.png"
+  },
+  "opensea": {
+    "displayName": "Opensea",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/opensea.svg"
+  },
+  "optimism": {
+    "displayName": "Optimism",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/optimism.png"
+  },
+  "pancakeswap": {
+    "displayName": "Pancake",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/pancakeswap.png"
+  },
+  "pancakeswapv3": {
+    "displayName": "Pancake v3",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/pancakeswap.png"
+  },
+  "pendle": {
+    "displayName": "Pendle",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/pendle.png"
+  },
+  "rarible": {
+    "displayName": "Rarible",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/rarible.jpg"
+  },
+  "rocketpool": {
+    "displayName": "Rocketpool",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/rocketpool.png"
+  },
+  "shibaswap": {
+    "displayName": "Shibaswap",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/shibaswap.png"
+  },
+  "silo": {
+    "displayName": "Silo",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/silo.png"
+  },
+  "stakewise": {
+    "displayName": "Stakewise",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/stakewise.png"
+  },
+  "stargate": {
+    "displayName": "Stargate",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/stargate.png"
+  },
+  "sushi": {
+    "displayName": "Sushi",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/sushi.png"
+  },
+  "tornadocash": {
+    "displayName": "Tornadocash",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/tornadocash.png"
+  },
+  "uniswapv2": {
+    "displayName": "Uniswap v2",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/uniswap.png"
+  },
+  "uniswapv3": {
+    "displayName": "Uniswap v3",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/uniswap.png"
+  },
+  "x2y2": {
+    "displayName": "X2Y2",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/x2y2.png"
+  },
+  "yearn": {
+    "displayName": "Yearn",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/yearn.jpg"
+  },
+  "zerox": {
+    "displayName": "0x Protocol",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/0x.png"
+  }
+}

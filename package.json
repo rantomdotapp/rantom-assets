@@ -3,7 +3,7 @@
   "private": true,
   "homepage": "https://rantom.app",
   "scripts": {
-    "pretty": "node scripts/pretty.js && prettier --write ./scripts"
+    "pretty": "node scripts/pretty.js && prettier --write ./scripts ./metadata"
   },
   "dependencies": {
     "@trivago/prettier-plugin-sort-imports": "^3.2.0",
