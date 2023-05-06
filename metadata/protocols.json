@@ -161,6 +161,10 @@
     "displayName": "Maker",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/maker.png"
   },
+  "morpho": {
+    "displayName": "Morpho",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/morpho.svg"
+  },
   "multichain": {
     "displayName": "Multichain",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/multichain.png"
