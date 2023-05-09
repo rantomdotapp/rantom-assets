@@ -1,39 +1,51 @@
 {
   "aavev1": {
     "displayName": "Aave v1",
+    "website": "https://aave.com",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/aave.png"
   },
   "aavev2": {
     "displayName": "Aave v2",
+    "website": "https://aave.com",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/aave.jpeg"
   },
   "aavev3": {
     "displayName": "Aave v3",
+    "website": "https://aave.com",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/aave-v3.jpeg"
   },
   "abracadabra": {
     "displayName": "Abracadabra",
+    "website": "https://abracadabra.money",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/abracadabra.png"
   },
   "agility": {
     "displayName": "Agility",
+    "website": "https://agilitylsd.com/",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/agility.png"
+  },
+  "ankr": {
+    "displayName": "Ankr",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/ankr.png"
   },
   "apecoin": {
     "displayName": "ApeCoin",
+    "website": "https://apecoin.com/",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/apecoin.png"
   },
-  "arbitrum": { "displayName": "Arbitrum", "logoURI": "/images/blockchains/arbitrum.png" },
   "arrakis": {
     "displayName": "Arrakis",
+    "website": "https://www.arrakis.finance/",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/arrakis.png"
   },
   "aurafinance": {
     "displayName": "Aura",
+    "website": "https://aura.finance/",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/aurafinance.png"
   },
   "balancer": {
     "displayName": "Balancer",
+    "website": "https://balancer.fi/",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/balancer.png"
   },
   "bancor": {
@@ -59,6 +71,10 @@
   "carbon": {
     "displayName": "Carbon",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/carbon.png"
+  },
+  "chai": {
+    "displayName": "Chain",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/chai.png"
   },
   "chainlink": {
     "displayName": "Chainlink",

@@ -14,4 +14,17 @@ const ordered = Object.keys(protocols)
     obj[key] = protocols[key];
     return obj;
   }, {});
+
+// validate protocol
+for (const [protocol, data] of Object.entries(ordered)) {
+  if (!data.displayName) {
+    console.info(`Protocol ${protocol} is missing displayName`);
+    process.exit(1);
+  }
+  if (!data.logoURI) {
+    console.info(`Protocol ${protocol} is missing logoURI`);
+    process.exit(1);
+  }
+}
+
 fs.writeFileSync('./metadata/protocols.json', JSON.stringify(ordered).toString());
