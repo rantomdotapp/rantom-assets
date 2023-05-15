@@ -201,6 +201,10 @@
     "displayName": "Pancake v3",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/pancakeswap.png"
   },
+  "paraswap": {
+    "displayName": "Paraswap",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/paraswap.png"
+  },
   "pendle": {
     "displayName": "Pendle",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/pendle.png"
