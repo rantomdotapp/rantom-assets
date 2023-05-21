@@ -264,5 +264,9 @@
   "zerox": {
     "displayName": "0x Protocol",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/0x.png"
+  },
+  "metamask": {
+    "displayName": "Metamask",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/metamask.png"
   }
 }
