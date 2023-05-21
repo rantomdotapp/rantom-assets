@@ -24,6 +24,10 @@
     "website": "https://agilitylsd.com/",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/agility.png"
   },
+  "airswap": {
+    "displayName": "Airswap",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/airswap.png"
+  },
   "ankr": {
     "displayName": "Ankr",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/ankr.png"
@@ -177,6 +181,10 @@
     "displayName": "Maker",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/maker.png"
   },
+  "metamask": {
+    "displayName": "Metamask",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/metamask.png"
+  },
   "morpho": {
     "displayName": "Morpho",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/morpho.svg"
@@ -264,9 +272,5 @@
   "zerox": {
     "displayName": "0x Protocol",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/0x.png"
-  },
-  "metamask": {
-    "displayName": "Metamask",
-    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/metamask.png"
   }
 }
