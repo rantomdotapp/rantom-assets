@@ -72,6 +72,10 @@
     "displayName": "Blur",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/blur.jpg"
   },
+  "bungee": {
+    "displayName": "Bungee",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/bungee.png"
+  },
   "carbon": {
     "displayName": "Carbon",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/carbon.png"
