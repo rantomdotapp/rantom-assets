@@ -237,6 +237,10 @@
     "displayName": "Silo",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/silo.png"
   },
+  "spark": {
+    "displayName": "Spark",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/spark.png"
+  },
   "stakewise": {
     "displayName": "Stakewise",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/stakewise.png"
