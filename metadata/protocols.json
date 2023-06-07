@@ -108,6 +108,10 @@
     "displayName": "CoW Protocol",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/cowswap.jpeg"
   },
+  "crvusd": {
+    "displayName": "Curve USD",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/curve.png"
+  },
   "curve": {
     "displayName": "Curve",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/curve.png"
