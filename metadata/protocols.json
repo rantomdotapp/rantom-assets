@@ -221,6 +221,10 @@
     "displayName": "Pendle",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/pendle.png"
   },
+  "raft": {
+    "displayName": "Raft",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/raft.png"
+  },
   "rarible": {
     "displayName": "Rarible",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/rarible.jpg"
