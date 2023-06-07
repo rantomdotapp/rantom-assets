@@ -253,6 +253,10 @@
     "displayName": "Stargate",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/stargate.png"
   },
+  "sturdy": {
+    "displayName": "Sturdy",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/sturdy.png"
+  },
   "sushi": {
     "displayName": "Sushi",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/sushi.png"
