@@ -201,6 +201,10 @@
     "displayName": "Multichain",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/multichain.png"
   },
+  "openocean": {
+    "displayName": "OpenOcean",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/openocean.png"
+  },
   "opensea": {
     "displayName": "Opensea",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/opensea.svg"
