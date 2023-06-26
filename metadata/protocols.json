@@ -300,5 +300,9 @@
   "zerox": {
     "displayName": "0x Protocol",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/0x.png"
+  },
+  "instadapp": {
+    "displayName": "Instadapp",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/instadapp.png"
   }
 }
