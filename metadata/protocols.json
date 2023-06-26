@@ -153,6 +153,10 @@
     "displayName": "Hop Protocol",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/hop.png"
   },
+  "instadapp": {
+    "displayName": "Instadapp",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/instadapp.png"
+  },
   "ironbank": {
     "displayName": "Ironbank",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/ironbank.svg"
@@ -300,9 +304,5 @@
   "zerox": {
     "displayName": "0x Protocol",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/0x.png"
-  },
-  "instadapp": {
-    "displayName": "Instadapp",
-    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/instadapp.png"
   }
 }
