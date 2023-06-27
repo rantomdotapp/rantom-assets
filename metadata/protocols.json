@@ -304,5 +304,9 @@
   "zerox": {
     "displayName": "0x Protocol",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/0x.png"
+  },
+  "defisaver": {
+    "displayName": "Defisaver",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/defisaver.png"
   }
 }
