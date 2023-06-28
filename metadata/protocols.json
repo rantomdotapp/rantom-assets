@@ -116,6 +116,10 @@
     "displayName": "Curve",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/curve.png"
   },
+  "defisaver": {
+    "displayName": "Defisaver",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/defisaver.png"
+  },
   "dodo": {
     "displayName": "Dodoex",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/dodoex.png"
@@ -192,6 +196,10 @@
   "maker": {
     "displayName": "Maker",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/maker.png"
+  },
+  "maverick": {
+    "displayName": "Maverick",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/maverick.png"
   },
   "metamask": {
     "displayName": "Metamask",
@@ -304,9 +312,5 @@
   "zerox": {
     "displayName": "0x Protocol",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/0x.png"
-  },
-  "defisaver": {
-    "displayName": "Defisaver",
-    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/defisaver.png"
   }
 }
