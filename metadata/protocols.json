@@ -157,6 +157,10 @@
     "displayName": "Gearbox",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/gearbox.png"
   },
+  "gelato": {
+    "displayName": "Gelato",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/gelato.png"
+  },
   "gravita": {
     "displayName": "Gravita",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/gravita.png"
