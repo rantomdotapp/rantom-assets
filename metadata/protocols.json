@@ -157,6 +157,10 @@
     "displayName": "Gearbox",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/gearbox.png"
   },
+  "gravita": {
+    "displayName": "Gravita",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/gravita.png"
+  },
   "hop": {
     "displayName": "Hop Protocol",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/hop.png"
