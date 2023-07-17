@@ -68,10 +68,6 @@
     "displayName": "Binance Staked Eth",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/binance-staked-eth.png"
   },
-  "eth2": {
-    "displayName": "Eth2 Staking",
-    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/eth2.png"
-  },
   "blur": {
     "displayName": "Blur",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/blur.jpg"
@@ -131,6 +127,10 @@
   "ens": {
     "displayName": "ENS",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/ens.png"
+  },
+  "eth2": {
+    "displayName": "Eth2 Staking",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/eth2.png"
   },
   "ethereum": { "displayName": "Ethereum", "logoURI": "/images/blockchains/ethereum.png" },
   "euler": {
