@@ -76,6 +76,14 @@
     "displayName": "Bungee",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/bungee.png"
   },
+  "camelot": {
+    "displayName": "Camelot",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/camelot.png"
+  },
+  "camelotv3": {
+    "displayName": "Camelot v3",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/camelot.png"
+  },
   "carbon": {
     "displayName": "Carbon",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/carbon.png"
