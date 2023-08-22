@@ -96,6 +96,10 @@
     "displayName": "Chainlink",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/chainlink.png"
   },
+  "clipper": {
+    "displayName": "Clipper",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/clipper.png"
+  },
   "compound": {
     "displayName": "Compound",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/compound.png"
@@ -240,6 +244,10 @@
   "mux": {
     "displayName": "Mux",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/mux.png"
+  },
+  "oneinch": {
+    "displayName": "1Inch",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/1inch.svg"
   },
   "openocean": {
     "displayName": "OpenOcean",
