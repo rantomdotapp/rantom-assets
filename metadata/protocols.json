@@ -56,6 +56,10 @@
     "displayName": "Bancor",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/bancor.png"
   },
+  "basin": {
+    "displayName": "Basin",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/basin.png"
+  },
   "beanstalk": {
     "displayName": "Beanstalk",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/beanstalk.png"
