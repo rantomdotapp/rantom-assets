@@ -28,6 +28,10 @@
     "displayName": "Airswap",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/airswap.png"
   },
+  "ambient": {
+    "displayName": "Ambient",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/ambient.png"
+  },
   "ankr": {
     "displayName": "Ankr",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/ankr.png"
