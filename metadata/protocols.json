@@ -309,6 +309,10 @@
     "displayName": "Silo",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/silo.png"
   },
+  "sommelier": {
+    "displayName": "Sommelier",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/sommelier.png"
+  },
   "spark": {
     "displayName": "Spark",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/spark.png"
