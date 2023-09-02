@@ -19,6 +19,10 @@
     "website": "https://abracadabra.money",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/abracadabra.png"
   },
+  "aerodrome": {
+    "displayName": "Aerodrome",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/aerodrome.png"
+  },
   "agility": {
     "displayName": "Agility",
     "website": "https://agilitylsd.com/",
