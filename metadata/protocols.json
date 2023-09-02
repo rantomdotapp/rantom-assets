@@ -285,6 +285,10 @@
     "displayName": "Pendle",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/pendle.png"
   },
+  "prisma": {
+    "displayName": "Prisma",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/prisma.png"
+  },
   "radiant": {
     "displayName": "Radiant",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/radiant.png"
