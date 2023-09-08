@@ -305,6 +305,10 @@
     "displayName": "Rarible",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/rarible.jpg"
   },
+  "reflexer": {
+    "displayName": "Reflexer",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/reflexer.png"
+  },
   "rocketpool": {
     "displayName": "Rocketpool",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/rocketpool.png"
@@ -320,6 +324,10 @@
   "sommelier": {
     "displayName": "Sommelier",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/sommelier.png"
+  },
+  "sonnefinance": {
+    "displayName": "Sonne Finance",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/sonnefinance.png"
   },
   "spark": {
     "displayName": "Spark",
