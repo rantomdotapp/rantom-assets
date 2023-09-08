@@ -148,6 +148,10 @@
     "displayName": "Dodoex",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/dodoex.png"
   },
+  "eigenlayer": {
+    "displayName": "Eigenlayer",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/eigenlayer.png"
+  },
   "ens": {
     "displayName": "ENS",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/ens.png"
@@ -164,6 +168,10 @@
   "exactly": {
     "displayName": "Exactly",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/exactly.png"
+  },
+  "fluxfinance": {
+    "displayName": "Flux Finance",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/fluxfinance.png"
   },
   "fraxeth": {
     "displayName": "Fraxeth",
