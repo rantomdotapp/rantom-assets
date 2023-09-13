@@ -221,6 +221,10 @@
     "displayName": "KyberClassic",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/kyberswap.png"
   },
+  "levelfinance": {
+    "displayName": "Level Finance",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/levelfinance.png"
+  },
   "lido": {
     "displayName": "Lido",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/lido.png"
