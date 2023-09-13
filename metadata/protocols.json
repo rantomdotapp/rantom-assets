@@ -321,6 +321,10 @@
     "displayName": "Rocketpool",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/rocketpool.png"
   },
+  "seamless": {
+    "displayName": "Seamless",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/seamless.png"
+  },
   "shibaswap": {
     "displayName": "Shibaswap",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/shibaswap.png"
