@@ -229,6 +229,10 @@
     "displayName": "Lido",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/lido.png"
   },
+  "liquidswap": {
+    "displayName": "Liquidswap",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/liquidswap.png"
+  },
   "liquity": {
     "displayName": "Liquity",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/liquity.png"
@@ -372,6 +376,10 @@
   "swell": {
     "displayName": "Swell",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/swell.png"
+  },
+  "thalafi": {
+    "displayName": "Thalafi",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/thalafi.png"
   },
   "tornadocash": {
     "displayName": "Tornadocash",
