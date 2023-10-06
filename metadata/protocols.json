@@ -385,6 +385,10 @@
     "displayName": "Tornadocash",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/tornadocash.png"
   },
+  "traderjoe": {
+    "displayName": "Traderjoe",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/traderjoe.png"
+  },
   "unibot": {
     "displayName": "Unibot",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/unibot.png"
