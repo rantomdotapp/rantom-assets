@@ -197,6 +197,10 @@
     "displayName": "Gmx",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/gmx.png"
   },
+  "gmxv2": {
+    "displayName": "Gmx v2",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/gmx.png"
+  },
   "gravita": {
     "displayName": "Gravita",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/gravita.png"
