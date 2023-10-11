@@ -417,6 +417,10 @@
     "displayName": "Yearn",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/yearn.jpg"
   },
+  "yearnyeth": {
+    "displayName": "Yearn yETH",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/yearn.jpg"
+  },
   "zerox": {
     "displayName": "0x Protocol",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/0x.png"
