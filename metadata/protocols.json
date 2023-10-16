@@ -185,6 +185,10 @@
     "displayName": "Fraxswap",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/fraxswap.png"
   },
+  "gains": {
+    "displayName": "Gains",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/gains.png"
+  },
   "gearbox": {
     "displayName": "Gearbox",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/gearbox.png"
