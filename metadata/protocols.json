@@ -76,6 +76,10 @@
     "displayName": "Beefy",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/beefy.png"
   },
+  "beethovenx": {
+    "displayName": "BeethovenX",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/beethovenx.png"
+  },
   "binance-staked-eth": {
     "displayName": "Binance Staked Eth",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/binance-staked-eth.png"
