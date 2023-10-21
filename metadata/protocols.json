@@ -104,6 +104,10 @@
     "displayName": "Carbon",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/carbon.png"
   },
+  "celerbridge": {
+    "displayName": "Celer cBridge",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/celerbridge.png"
+  },
   "chai": {
     "displayName": "Chai",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/chai.png"
