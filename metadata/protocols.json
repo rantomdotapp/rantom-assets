@@ -225,6 +225,10 @@
     "displayName": "Instadapp",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/instadapp.png"
   },
+  "venus": {
+    "displayName": "Venus",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/venus.png"
+  },
   "ironbank": {
     "displayName": "Ironbank",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/ironbank.svg"
