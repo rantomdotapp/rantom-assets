@@ -293,6 +293,10 @@
     "displayName": "Mux",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/mux.png"
   },
+  "native": {
+    "displayName": "Native",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/native.png"
+  },
   "odos": {
     "displayName": "Odos",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/odos.png"
