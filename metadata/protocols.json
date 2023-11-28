@@ -225,10 +225,6 @@
     "displayName": "Instadapp",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/instadapp.png"
   },
-  "venus": {
-    "displayName": "Venus",
-    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/venus.png"
-  },
   "ironbank": {
     "displayName": "Ironbank",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/ironbank.svg"
@@ -417,6 +413,10 @@
     "displayName": "Traderjoe",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/traderjoe.png"
   },
+  "traderjoev2": {
+    "displayName": "Traderjoe v2",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/traderjoev2.png"
+  },
   "unibot": {
     "displayName": "Unibot",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/unibot.png"
@@ -428,6 +428,10 @@
   "uniswapv3": {
     "displayName": "Uniswap v3",
     "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/uniswap.png"
+  },
+  "venus": {
+    "displayName": "Venus",
+    "logoURI": "https://raw.githubusercontent.com/rantomdotapp/rantom-assets/main/images/protocols/venus.png"
   },
   "x2y2": {
     "displayName": "X2Y2",
